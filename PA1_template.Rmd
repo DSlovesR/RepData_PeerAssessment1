@@ -20,7 +20,7 @@ This is an R Markdown document of the assignment week#2 of course 5. This assign
 
 ## Loading and preprocessing the data
 
-1- Load the data 
+Load the data - .zip file was downloaded and then unzip into project directory.
 
 ```{r loaddata, echo=TRUE, cache=FALSE}
 library( dplyr)
